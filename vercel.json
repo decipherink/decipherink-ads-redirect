@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://REPLACE_WITH_YOUR_GOOGLE_SITE_URL",
+      "destination": "https://www.decipherink.net/",
       "permanent": false
     }
   ]
